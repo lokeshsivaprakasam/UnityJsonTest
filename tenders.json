@@ -1,0 +1,23 @@
+{
+  "updatedAt": "2026-02-09",
+  "tenders": [
+    {
+      "id": "00115",
+      "subject": "Lorem Ipsum Is Simply Dummy Text Of The Printing And Typesetting Industry",
+      "bidDueDate": "24th Nov 2025, 03:00 PM",
+      "bidValidityEndDate": "24th Nov 2025, 03:00 PM",
+      "tat": "5 Days",
+      "bidValidity": "7 Days",
+      "status": "CBA Under Processing"
+    },
+    {
+      "id": "00116",
+      "subject": "Procurement Of Valves For Pipeline Project",
+      "bidDueDate": "28th Nov 2025, 01:00 PM",
+      "bidValidityEndDate": "28th Nov 2025, 01:00 PM",
+      "tat": "7 Days",
+      "bidValidity": "10 Days",
+      "status": "Clarification Under Process"
+    }
+  ]
+}
