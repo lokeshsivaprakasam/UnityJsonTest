@@ -1,0 +1,9 @@
+{
+  "tenders": [
+    { "id": "T001", "status": "CBA Under Processing", "cbaDays": 3, "csDays": 0 },
+    { "id": "T002", "status": "CBA Under Vetting", "cbaDays": 4, "csDays": 0 },
+    { "id": "T003", "status": "CBA Vetted", "cbaDays": 2, "csDays": 0 },
+    { "id": "T004", "status": "CS Under Processing", "cbaDays": 3, "csDays": 2 },
+    { "id": "T005", "status": "CS Vetted", "cbaDays": 4, "csDays": 5 }
+  ]
+}
