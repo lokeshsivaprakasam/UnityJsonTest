@@ -1,143 +1,330 @@
 {
-  "updatedAt": "2026-02-09",
+  "updatedAt": "2026-02-10",
   "tenders": [
     {
-      "id": "00101",
-      "subject": "Procurement of Pipeline Valves for Northern Region",
-      "bidDueDate": "20th Nov 2025, 03:00 PM",
-      "bidValidityEndDate": "20th Nov 2025, 03:00 PM",
+      "id": "T-1001",
+      "subject": "Procurement of Industrial Gate Valves",
+      "bidDueDate": "24th Nov 2025, 03:00 PM",
+      "bidValidityEndDate": "24th Nov 2025, 03:00 PM",
       "tat": "5 Days",
       "bidValidity": "7 Days",
       "status": "CBA Under Processing"
     },
     {
-      "id": "00102",
-      "subject": "Annual Maintenance Contract for Compressor Units",
-      "bidDueDate": "21st Nov 2025, 01:00 PM",
-      "bidValidityEndDate": "21st Nov 2025, 01:00 PM",
+      "id": "T-1002",
+      "subject": "Supply of High Pressure Steel Pipes",
+      "bidDueDate": "25th Nov 2025, 01:00 PM",
+      "bidValidityEndDate": "25th Nov 2025, 01:00 PM",
+      "tat": "6 Days",
+      "bidValidity": "10 Days",
+      "status": "CBA Under Processing"
+    },
+    {
+      "id": "T-1003",
+      "subject": "Procurement of Gas Compressor Spares",
+      "bidDueDate": "26th Nov 2025, 11:00 AM",
+      "bidValidityEndDate": "26th Nov 2025, 11:00 AM",
+      "tat": "4 Days",
+      "bidValidity": "7 Days",
+      "status": "CBA Under Processing"
+    },
+
+    {
+      "id": "T-1004",
+      "subject": "Clarification on Pipeline Construction Tender",
+      "bidDueDate": "27th Nov 2025, 02:00 PM",
+      "bidValidityEndDate": "27th Nov 2025, 02:00 PM",
+      "tat": "5 Days",
+      "bidValidity": "7 Days",
+      "status": "Clarification Under Process"
+    },
+    {
+      "id": "T-1005",
+      "subject": "Clarification for SCADA System Scope",
+      "bidDueDate": "28th Nov 2025, 03:00 PM",
+      "bidValidityEndDate": "28th Nov 2025, 03:00 PM",
       "tat": "6 Days",
       "bidValidity": "10 Days",
       "status": "Clarification Under Process"
     },
     {
-      "id": "00103",
-      "subject": "Supply of Industrial Safety Equipment",
-      "bidDueDate": "22nd Nov 2025, 11:00 AM",
-      "bidValidityEndDate": "22nd Nov 2025, 11:00 AM",
+      "id": "T-1006",
+      "subject": "Query Resolution for Electrical Works Contract",
+      "bidDueDate": "29th Nov 2025, 12:00 PM",
+      "bidValidityEndDate": "29th Nov 2025, 12:00 PM",
       "tat": "4 Days",
       "bidValidity": "7 Days",
+      "status": "Clarification Under Process"
+    },
+
+    {
+      "id": "T-1007",
+      "subject": "Preparation of CBA for Gas Meter Procurement",
+      "bidDueDate": "30th Nov 2025, 05:00 PM",
+      "bidValidityEndDate": "30th Nov 2025, 05:00 PM",
+      "tat": "7 Days",
+      "bidValidity": "14 Days",
       "status": "CBA Under Preparation"
     },
     {
-      "id": "00104",
-      "subject": "Civil Construction of Control Room Building",
-      "bidDueDate": "23rd Nov 2025, 05:00 PM",
-      "bidValidityEndDate": "23rd Nov 2025, 05:00 PM",
+      "id": "T-1008",
+      "subject": "Preparation of CBA for Civil Works",
+      "bidDueDate": "1st Dec 2025, 02:30 PM",
+      "bidValidityEndDate": "1st Dec 2025, 02:30 PM",
+      "tat": "8 Days",
+      "bidValidity": "15 Days",
+      "status": "CBA Under Preparation"
+    },
+    {
+      "id": "T-1009",
+      "subject": "Budget Analysis for LNG Storage Upgrade",
+      "bidDueDate": "2nd Dec 2025, 04:00 PM",
+      "bidValidityEndDate": "2nd Dec 2025, 04:00 PM",
+      "tat": "9 Days",
+      "bidValidity": "20 Days",
+      "status": "CBA Under Preparation"
+    },
+
+    {
+      "id": "T-1010",
+      "subject": "CBA Checking – Fire Safety Equipment",
+      "bidDueDate": "3rd Dec 2025, 11:00 AM",
+      "bidValidityEndDate": "3rd Dec 2025, 11:00 AM",
+      "tat": "5 Days",
+      "bidValidity": "7 Days",
+      "status": "CBA Under Checking"
+    },
+    {
+      "id": "T-1011",
+      "subject": "CBA Checking – Electrical Cabling Works",
+      "bidDueDate": "4th Dec 2025, 01:00 PM",
+      "bidValidityEndDate": "4th Dec 2025, 01:00 PM",
+      "tat": "6 Days",
+      "bidValidity": "10 Days",
+      "status": "CBA Under Checking"
+    },
+    {
+      "id": "T-1012",
+      "subject": "CBA Checking – Instrumentation Package",
+      "bidDueDate": "5th Dec 2025, 03:00 PM",
+      "bidValidityEndDate": "5th Dec 2025, 03:00 PM",
       "tat": "7 Days",
       "bidValidity": "14 Days",
       "status": "CBA Under Checking"
     },
+
     {
-      "id": "00105",
-      "subject": "Procurement of SCADA Monitoring Software",
-      "bidDueDate": "24th Nov 2025, 03:00 PM",
-      "bidValidityEndDate": "24th Nov 2025, 03:00 PM",
+      "id": "T-1013",
+      "subject": "CBA Vetting – Pipeline Coating Work",
+      "bidDueDate": "6th Dec 2025, 02:00 PM",
+      "bidValidityEndDate": "6th Dec 2025, 02:00 PM",
+      "tat": "8 Days",
+      "bidValidity": "15 Days",
+      "status": "CBA Under Vetting"
+    },
+    {
+      "id": "T-1014",
+      "subject": "CBA Vetting – Compressor Installation",
+      "bidDueDate": "7th Dec 2025, 03:30 PM",
+      "bidValidityEndDate": "7th Dec 2025, 03:30 PM",
+      "tat": "9 Days",
+      "bidValidity": "20 Days",
+      "status": "CBA Under Vetting"
+    },
+    {
+      "id": "T-1015",
+      "subject": "CBA Vetting – Instrument Calibration",
+      "bidDueDate": "8th Dec 2025, 04:00 PM",
+      "bidValidityEndDate": "8th Dec 2025, 04:00 PM",
+      "tat": "7 Days",
+      "bidValidity": "14 Days",
+      "status": "CBA Under Vetting"
+    },
+    {
+      "id": "T-1016",
+      "subject": "CBA Vetting – SCADA Integration",
+      "bidDueDate": "9th Dec 2025, 01:00 PM",
+      "bidValidityEndDate": "9th Dec 2025, 01:00 PM",
       "tat": "8 Days",
       "bidValidity": "15 Days",
       "status": "CBA Under Vetting"
     },
 
     {
-      "id": "00106",
-      "subject": "Electrical Cabling Work for Gas Terminal",
-      "bidDueDate": "25th Nov 2025, 02:00 PM",
-      "bidValidityEndDate": "25th Nov 2025, 02:00 PM",
-      "tat": "5 Days",
+      "id": "T-1017",
+      "subject": "Final CBA Approval – Gas Turbine Package",
+      "bidDueDate": "10th Dec 2025, 02:00 PM",
+      "bidValidityEndDate": "10th Dec 2025, 02:00 PM",
+      "tat": "6 Days",
       "bidValidity": "10 Days",
       "status": "CBA Vetted"
     },
     {
-      "id": "00107",
-      "subject": "Procurement of Gas Flow Meters",
-      "bidDueDate": "26th Nov 2025, 01:30 PM",
-      "bidValidityEndDate": "26th Nov 2025, 01:30 PM",
+      "id": "T-1018",
+      "subject": "Final CBA Approval – Civil Infrastructure",
+      "bidDueDate": "11th Dec 2025, 03:00 PM",
+      "bidValidityEndDate": "11th Dec 2025, 03:00 PM",
+      "tat": "7 Days",
+      "bidValidity": "14 Days",
+      "status": "CBA Vetted"
+    },
+    {
+      "id": "T-1019",
+      "subject": "Final CBA Approval – Electrical Systems",
+      "bidDueDate": "12th Dec 2025, 11:00 AM",
+      "bidValidityEndDate": "12th Dec 2025, 11:00 AM",
+      "tat": "5 Days",
+      "bidValidity": "7 Days",
+      "status": "CBA Vetted"
+    },
+    {
+      "id": "T-1020",
+      "subject": "Final CBA Approval – Instrumentation",
+      "bidDueDate": "13th Dec 2025, 01:30 PM",
+      "bidValidityEndDate": "13th Dec 2025, 01:30 PM",
+      "tat": "6 Days",
+      "bidValidity": "10 Days",
+      "status": "CBA Vetted"
+    },
+
+    {
+      "id": "T-1021",
+      "subject": "CS Processing – Vendor Evaluation",
+      "bidDueDate": "14th Dec 2025, 02:00 PM",
+      "bidValidityEndDate": "14th Dec 2025, 02:00 PM",
+      "tat": "5 Days",
+      "bidValidity": "7 Days",
+      "status": "CS Under Processing"
+    },
+    {
+      "id": "T-1022",
+      "subject": "CS Processing – Commercial Review",
+      "bidDueDate": "15th Dec 2025, 03:00 PM",
+      "bidValidityEndDate": "15th Dec 2025, 03:00 PM",
       "tat": "6 Days",
       "bidValidity": "10 Days",
       "status": "CS Under Processing"
     },
     {
-      "id": "00108",
-      "subject": "Turnkey Project for LNG Storage Expansion",
-      "bidDueDate": "27th Nov 2025, 04:00 PM",
-      "bidValidityEndDate": "27th Nov 2025, 04:00 PM",
-      "tat": "9 Days",
-      "bidValidity": "20 Days",
+      "id": "T-1023",
+      "subject": "CS Processing – Vendor Negotiation",
+      "bidDueDate": "16th Dec 2025, 01:00 PM",
+      "bidValidityEndDate": "16th Dec 2025, 01:00 PM",
+      "tat": "7 Days",
+      "bidValidity": "14 Days",
+      "status": "CS Under Processing"
+    },
+
+    {
+      "id": "T-1024",
+      "subject": "CS Preparation – Contract Drafting",
+      "bidDueDate": "17th Dec 2025, 02:30 PM",
+      "bidValidityEndDate": "17th Dec 2025, 02:30 PM",
+      "tat": "6 Days",
+      "bidValidity": "10 Days",
       "status": "CS Under Preparation"
     },
     {
-      "id": "00109",
-      "subject": "Supply & Installation of Fire Safety Systems",
-      "bidDueDate": "28th Nov 2025, 12:00 PM",
-      "bidValidityEndDate": "28th Nov 2025, 12:00 PM",
+      "id": "T-1025",
+      "subject": "CS Preparation – Payment Terms Finalization",
+      "bidDueDate": "18th Dec 2025, 04:00 PM",
+      "bidValidityEndDate": "18th Dec 2025, 04:00 PM",
+      "tat": "8 Days",
+      "bidValidity": "15 Days",
+      "status": "CS Under Preparation"
+    },
+    {
+      "id": "T-1026",
+      "subject": "CS Preparation – Contract Review",
+      "bidDueDate": "19th Dec 2025, 03:00 PM",
+      "bidValidityEndDate": "19th Dec 2025, 03:00 PM",
+      "tat": "7 Days",
+      "bidValidity": "14 Days",
+      "status": "CS Under Preparation"
+    },
+
+    {
+      "id": "T-1027",
+      "subject": "CS Checking – Compliance Verification",
+      "bidDueDate": "20th Dec 2025, 02:00 PM",
+      "bidValidityEndDate": "20th Dec 2025, 02:00 PM",
       "tat": "5 Days",
       "bidValidity": "7 Days",
       "status": "CS Under Checking"
     },
     {
-      "id": "00110",
-      "subject": "Procurement of High Pressure Gas Regulators",
-      "bidDueDate": "29th Nov 2025, 03:00 PM",
-      "bidValidityEndDate": "29th Nov 2025, 03:00 PM",
+      "id": "T-1028",
+      "subject": "CS Checking – Financial Clearance",
+      "bidDueDate": "21st Dec 2025, 03:30 PM",
+      "bidValidityEndDate": "21st Dec 2025, 03:30 PM",
       "tat": "6 Days",
       "bidValidity": "10 Days",
+      "status": "CS Under Checking"
+    },
+    {
+      "id": "T-1029",
+      "subject": "CS Checking – Contract Validation",
+      "bidDueDate": "22nd Dec 2025, 11:00 AM",
+      "bidValidityEndDate": "22nd Dec 2025, 11:00 AM",
+      "tat": "7 Days",
+      "bidValidity": "14 Days",
+      "status": "CS Under Checking"
+    },
+
+    {
+      "id": "T-1030",
+      "subject": "CS Vetting – Legal Approval",
+      "bidDueDate": "23rd Dec 2025, 02:00 PM",
+      "bidValidityEndDate": "23rd Dec 2025, 02:00 PM",
+      "tat": "8 Days",
+      "bidValidity": "15 Days",
+      "status": "CS Under Vetting"
+    },
+    {
+      "id": "T-1031",
+      "subject": "CS Vetting – Finance Approval",
+      "bidDueDate": "24th Dec 2025, 03:00 PM",
+      "bidValidityEndDate": "24th Dec 2025, 03:00 PM",
+      "tat": "9 Days",
+      "bidValidity": "20 Days",
+      "status": "CS Under Vetting"
+    },
+    {
+      "id": "T-1032",
+      "subject": "CS Vetting – Management Approval",
+      "bidDueDate": "26th Dec 2025, 01:00 PM",
+      "bidValidityEndDate": "26th Dec 2025, 01:00 PM",
+      "tat": "7 Days",
+      "bidValidity": "14 Days",
       "status": "CS Under Vetting"
     },
 
     {
-      "id": "00111",
-      "subject": "Installation of Emergency Shutdown System",
-      "bidDueDate": "30th Nov 2025, 11:00 AM",
-      "bidValidityEndDate": "30th Nov 2025, 11:00 AM",
+      "id": "T-1033",
+      "subject": "CS Final Approval – Gas Supply Contract",
+      "bidDueDate": "27th Dec 2025, 02:30 PM",
+      "bidValidityEndDate": "27th Dec 2025, 02:30 PM",
+      "tat": "6 Days",
+      "bidValidity": "10 Days",
+      "status": "CS Vetted"
+    },
+    {
+      "id": "T-1034",
+      "subject": "CS Final Approval – Equipment Procurement",
+      "bidDueDate": "28th Dec 2025, 03:00 PM",
+      "bidValidityEndDate": "28th Dec 2025, 03:00 PM",
       "tat": "7 Days",
       "bidValidity": "14 Days",
       "status": "CS Vetted"
     },
     {
-      "id": "00112",
-      "subject": "Procurement of Diesel Generator Sets",
-      "bidDueDate": "1st Dec 2025, 02:00 PM",
-      "bidValidityEndDate": "1st Dec 2025, 02:00 PM",
-      "tat": "4 Days",
-      "bidValidity": "7 Days",
-      "status": "CBA Under Processing"
-    },
-    {
-      "id": "00113",
-      "subject": "Annual Rate Contract for IT Hardware",
-      "bidDueDate": "2nd Dec 2025, 01:00 PM",
-      "bidValidityEndDate": "2nd Dec 2025, 01:00 PM",
-      "tat": "6 Days",
-      "bidValidity": "10 Days",
-      "status": "Clarification Under Process"
-    },
-    {
-      "id": "00114",
-      "subject": "Procurement of Explosion Proof Lighting Fixtures",
-      "bidDueDate": "3rd Dec 2025, 04:00 PM",
-      "bidValidityEndDate": "3rd Dec 2025, 04:00 PM",
+      "id": "T-1035",
+      "subject": "CS Final Approval – EPC Services Contract",
+      "bidDueDate": "29th Dec 2025, 11:00 AM",
+      "bidValidityEndDate": "29th Dec 2025, 11:00 AM",
       "tat": "8 Days",
       "bidValidity": "15 Days",
-      "status": "CBA Under Checking"
-    },
-    {
-      "id": "00115",
-      "subject": "Pipeline Integrity Management Consultancy Services",
-      "bidDueDate": "4th Dec 2025, 03:30 PM",
-      "bidValidityEndDate": "4th Dec 2025, 03:30 PM",
-      "tat": "10 Days",
-      "bidValidity": "20 Days",
-      "status": "CBA Vetted"
+      "status": "CS Vetted"
     }
   ]
 }
-
