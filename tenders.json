@@ -589,5 +589,166 @@
         }
       ]
     }
+
+    {
+  "id": "D-2001",
+  "subject": "Procurement of Industrial Pumps for Refinery Division",
+  "bidDueDate": "02nd Dec 2025, 11:00 AM",
+  "bidValidityEndDate": "02nd Dec 2025, 11:00 AM",
+  "tat": "4 Days",
+  "bidValidity": "7 Days",
+  "status": "Under Draft",
+  "activityLogs": [
+    {
+      "activity": "Tender created and saved as draft",
+      "executedBy": "Sachin Sharma",
+      "dateTime": "20th Nov 2025, 02:15 PM"
+    }
+  ]
+},
+{
+  "id": "D-2002",
+  "subject": "Supply of Stainless Steel Flanges and Fittings",
+  "bidDueDate": "04th Dec 2025, 03:00 PM",
+  "bidValidityEndDate": "04th Dec 2025, 03:00 PM",
+  "tat": "5 Days",
+  "bidValidity": "10 Days",
+  "status": "Under Draft",
+  "activityLogs": [
+    {
+      "activity": "Draft updated with technical specifications",
+      "executedBy": "Sachin Sharma",
+      "dateTime": "21st Nov 2025, 11:20 AM"
+    }
+  ]
+},
+{
+  "id": "D-2003",
+  "subject": "Procurement of Compressor Spare Parts",
+  "bidDueDate": "06th Dec 2025, 01:00 PM",
+  "bidValidityEndDate": "06th Dec 2025, 01:00 PM",
+  "tat": "3 Days",
+  "bidValidity": "7 Days",
+  "status": "Under Draft",
+  "activityLogs": [
+    {
+      "activity": "Pricing details added",
+      "executedBy": "Sachin Sharma",
+      "dateTime": "22nd Nov 2025, 04:30 PM"
+    }
+  ]
+},
+{
+  "id": "D-2004",
+  "subject": "Maintenance Contract for Pipeline Monitoring Systems",
+  "bidDueDate": "08th Dec 2025, 12:00 PM",
+  "bidValidityEndDate": "08th Dec 2025, 12:00 PM",
+  "tat": "6 Days",
+  "bidValidity": "15 Days",
+  "status": "Under Draft",
+  "activityLogs": [
+    {
+      "activity": "Scope of work revised",
+      "executedBy": "Sachin Sharma",
+      "dateTime": "23rd Nov 2025, 10:45 AM"
+    }
+  ]
+},
+{
+  "id": "D-2005",
+  "subject": "Supply of High Capacity Industrial Valves",
+  "bidDueDate": "09th Dec 2025, 02:00 PM",
+  "bidValidityEndDate": "09th Dec 2025, 02:00 PM",
+  "tat": "5 Days",
+  "bidValidity": "7 Days",
+  "status": "Under Draft",
+  "activityLogs": [
+    {
+      "activity": "Eligibility criteria added",
+      "executedBy": "Sachin Sharma",
+      "dateTime": "23rd Nov 2025, 03:10 PM"
+    }
+  ]
+},
+{
+  "id": "D-2006",
+  "subject": "Electrical Works for New Gas Terminal",
+  "bidDueDate": "10th Dec 2025, 11:00 AM",
+  "bidValidityEndDate": "10th Dec 2025, 11:00 AM",
+  "tat": "7 Days",
+  "bidValidity": "20 Days",
+  "status": "Under Draft",
+  "activityLogs": [
+    {
+      "activity": "BOQ attached",
+      "executedBy": "Sachin Sharma",
+      "dateTime": "24th Nov 2025, 09:25 AM"
+    }
+  ]
+},
+{
+  "id": "D-2007",
+  "subject": "Procurement of Safety Equipment for Onshore Sites",
+  "bidDueDate": "12th Dec 2025, 03:00 PM",
+  "bidValidityEndDate": "12th Dec 2025, 03:00 PM",
+  "tat": "4 Days",
+  "bidValidity": "10 Days",
+  "status": "Under Draft",
+  "activityLogs": [
+    {
+      "activity": "Technical annexure uploaded",
+      "executedBy": "Sachin Sharma",
+      "dateTime": "24th Nov 2025, 01:40 PM"
+    }
+  ]
+},
+{
+  "id": "D-2008",
+  "subject": "Consultancy Services for ESG Compliance Review",
+  "bidDueDate": "14th Dec 2025, 12:30 PM",
+  "bidValidityEndDate": "14th Dec 2025, 12:30 PM",
+  "tat": "8 Days",
+  "bidValidity": "30 Days",
+  "status": "Under Draft",
+  "activityLogs": [
+    {
+      "activity": "Financial criteria drafted",
+      "executedBy": "Sachin Sharma",
+      "dateTime": "25th Nov 2025, 10:05 AM"
+    }
+  ]
+},
+{
+  "id": "D-2009",
+  "subject": "Supply of Industrial Lubricants and Chemicals",
+  "bidDueDate": "16th Dec 2025, 02:30 PM",
+  "bidValidityEndDate": "16th Dec 2025, 02:30 PM",
+  "tat": "5 Days",
+  "bidValidity": "12 Days",
+  "status": "Under Draft",
+  "activityLogs": [
+    {
+      "activity": "Draft reviewed internally",
+      "executedBy": "Sachin Sharma",
+      "dateTime": "25th Nov 2025, 03:50 PM"
+    }
+  ]
+},
+{
+  "id": "D-2010",
+  "subject": "IT Infrastructure Upgrade for Control Room Systems",
+  "bidDueDate": "18th Dec 2025, 01:15 PM",
+  "bidValidityEndDate": "18th Dec 2025, 01:15 PM",
+  "tat": "6 Days",
+  "bidValidity": "15 Days",
+  "status": "Under Draft",
+  "activityLogs": [
+    {
+      "activity": "Tender saved pending final validation",
+      "executedBy": "Sachin Sharma",
+      "dateTime": "26th Nov 2025, 09:45 AM"
+    }
+  ]
+}
   ]
 }
